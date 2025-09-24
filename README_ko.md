@@ -1,7 +1,8 @@
 # SwiftUIHTML
 
-![Platform | iOS](https://img.shields.io/badge/platform-iOS%20%7C%20iPadOS%20%7C%20macOS-orange.svg)
-[![SPM compatible](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
+[![SPM](https://img.shields.io/badge/SPM-compatible-4BC51D.svg)](https://github.com/apple/swift-package-manager)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
 **SwiftUIHTML**은 SwiftUI에서 HTML 콘텐츠를 네이티브 뷰로 렌더링하는 강력하고 커스터마이즈 가능한 라이브러리입니다.
 

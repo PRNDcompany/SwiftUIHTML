@@ -1,7 +1,8 @@
 # SwiftUIHTML
 
-![Platform | iOS](https://img.shields.io/badge/platform-iOS%20%7C%20iPadOS%20%7C%20macOS-orange.svg)
-[![SPM compatible](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
+[![SPM](https://img.shields.io/badge/SPM-compatible-4BC51D.svg)](https://github.com/apple/swift-package-manager)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
 **SwiftUIHTML** is a powerful and customizable library for rendering HTML content as native views in SwiftUI.
 
@@ -175,4 +176,4 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## 📄 License
 
-Copyright © 2025 PRND. All rights reserved.
+SwiftUIHTML is released under the MIT License. See [LICENSE](LICENSE) for details.
